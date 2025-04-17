@@ -18,7 +18,6 @@ What’s Included
 
 - Excel (for test cases)
 - Word (for bug reporting & test planning)
-- Python (for project organization)
 
 ---
 
